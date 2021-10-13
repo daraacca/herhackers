@@ -1,6 +1,6 @@
 # herHACK 2021
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](De_swiss_digital_day_herHACK_rgb-1536x203.png)
 
 Information for participants
 
